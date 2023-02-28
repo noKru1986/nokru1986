@@ -22,9 +22,11 @@
 </div>
 
 
-### 👨‍👩‍👧 About Me :
+### 👨‍👩‍👧 About Me:
+I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Croatia. <br>
+- I have been diligently studying the front-end for over a year and have a keen ability to quickly absorb new information. With strong analytical skills and acute attention to detail, I am comfortable working both independently and collaboratively within a team. Additionally, I have devoted ample time to reading specialized literature in the field. My pursuit of perfection drives me to excel in all endeavors.
 
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blazicevic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krunoslav-blazicevic/)
 
 <!--
 **noKru1986/nokru1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
