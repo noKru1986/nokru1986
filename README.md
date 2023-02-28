@@ -8,8 +8,8 @@
   <a href="https://twitter.com/noKru1986">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- 
-</div>
+ </div>
+
 <div id="badges" align="center">
  <img src="https://komarev.com/ghpvc/?username=noKru1986&style=flat-square&color=blue" alt=""/>
 </div>
@@ -17,6 +17,7 @@
   Hey there, I'm Kruno!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 <div align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"/>
 </div>
