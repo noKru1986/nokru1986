@@ -25,13 +25,17 @@
 ---
 
 ### 👨‍👩‍👧 About Me:
+
 I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Croatia. <br>
+
 - I have been diligently studying the front-end for over a year and have a keen ability to quickly absorb new information. With strong analytical skills and acute attention to detail, I am comfortable working both independently and collaboratively within a team. Additionally, I have devoted ample time to reading specialized literature in the field. My pursuit of perfection drives me to excel in all endeavors.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blazicevic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/krunoslav-blazicevic/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -42,9 +46,6 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 </div>
 
 ---
-
-
-
 
 <!--
 **noKru1986/nokru1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
